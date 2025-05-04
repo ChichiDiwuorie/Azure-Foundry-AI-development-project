@@ -88,3 +88,4 @@ If you’ve finished exploring Azure AI Foundry portal, you should delete the re
 Return to the browser tab containing the Azure portal (or re-open the Azure portal at https://portal.azure.com in a new browser tab) and view the contents of the resource group where you deployed the resources used in this exercise.
 On the toolbar, select Delete resource group.
 Enter the resource group name and confirm that you want to delete it.
+https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/01-Explore-ai-studio.html
