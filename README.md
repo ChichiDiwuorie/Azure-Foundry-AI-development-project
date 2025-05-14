@@ -87,7 +87,8 @@ Throughout these steps, the key principle is to never leave the chicken and the 
 I prefer gpt 4o because it formats it's response in bullets and it is easier for someone with a logical mind to understand and read. On the contrary, the Phi 3.5 was a great description but it's not clear to read, its busy.
 
 
-
+# Create a generative AI chat app
+<img width="1515" alt="image" src="https://github.com/user-attachments/assets/be00019c-ebe4-485d-8b18-bfe5295e37b3" />
 
 
 
