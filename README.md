@@ -88,10 +88,12 @@ I prefer gpt 4o because it formats it's response in bullets and it is easier for
 
 
 # Create a generative AI chat app
+Error code recieved due to exhausted quota
 <img width="1515" alt="image" src="https://github.com/user-attachments/assets/be00019c-ebe4-485d-8b18-bfe5295e37b3" />
 
 
-
+# Explore AI Agent development
+<img width="1230" alt="image" src="https://github.com/user-attachments/assets/86c8564d-b57b-47ac-a74c-53485b060c92" />
 
 
 
