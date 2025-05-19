@@ -95,6 +95,10 @@ Error code recieved due to exhausted quota
 # Explore AI Agent development
 <img width="1230" alt="image" src="https://github.com/user-attachments/assets/86c8564d-b57b-47ac-a74c-53485b060c92" />
 
+# Create a generative AI app that uses your own data
+Retrieval Augmented Generation (RAG) is a technique used to build applications that integrate data from custom data sources into a prompt for a generative AI model. RAG is a commonly used pattern for developing generative AI apps - chat-based applications that use a language model to interpret inputs and generate appropriate responses.
+In this exercise, you’ll use Azure AI Foundry portal and the Azure AI Foundry and Azure OpenAI SDKs to integrate custom data into a generative AI app.
+<img width="1057" alt="image" src="https://github.com/user-attachments/assets/37f57363-8327-4699-a54a-05dbb12eaff9" />
 
 
 
