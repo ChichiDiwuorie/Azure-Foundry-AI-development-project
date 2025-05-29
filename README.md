@@ -4,13 +4,17 @@ In this MSFT exercise, I use Azure AI Foundry portal to create a hub and project
 <img width="996" alt="image" src="https://github.com/user-attachments/assets/988b59e7-b528-40f4-8f58-819e285861f1" />
 View the resource group in the Azure portal to see the Azure resources that have been created to support your hub and project.
 <img width="1234" alt="image" src="https://github.com/user-attachments/assets/9d4f04ad-5a21-496c-8e78-4fb255708ca1" />
+
 ## Create and Add a connected resource
+
 Create a new Azure AI Services resource
 <img width="961" alt="image" src="https://github.com/user-attachments/assets/aa1c9731-9c60-4985-a9f4-bdc49d120e39" />
 In the Text translation page, in the Try it out section, view the Try with your own tab.
 Select either of your Azure AI Services resources and then try translating some text (for example, Hello world) from one language to another.
 <img width="1177" alt="image" src="https://github.com/user-attachments/assets/19654a0f-876e-4595-87d4-f63f44f68ce2" />
+
 ## Compare Models - compare the metrics for these models visually using
+
 Accuracy
 Coherence
 Fluency
@@ -82,20 +86,21 @@ Final Return (Step 5): The last step is to return alone to the original side one
 
 Throughout these steps, the key principle is to never leave the chicken and the grain or the fox and the chicken unattended together. By carefully planning each trip and return, we can ensure that all items are transported safely without any being eaten. This solution is based on the process of elimination and careful consideration of the constraints and the relationships between the items.
 
+# Conclusion
 
-## Conclusion
 I prefer gpt 4o because it formats it's response in bullets and it is easier for someone with a logical mind to understand and read. On the contrary, the Phi 3.5 was a great description but it's not clear to read, its busy.
 
-
 # Create a generative AI chat app
+
 Error code recieved due to exhausted quota
 <img width="1515" alt="image" src="https://github.com/user-attachments/assets/be00019c-ebe4-485d-8b18-bfe5295e37b3" />
 
-
 # Explore AI Agent development
-<img width="1230" alt="image" src="https://github.com/user-attachments/assets/86c8564d-b57b-47ac-a74c-53485b060c92" />
+
+<img width="1230" alt="image" src="https://github.com/user-attachments/assets/86c8564d-b57b-47ac-a74c-53485b060c92" /
 
 # Create a generative AI app that uses your own data
+
 Retrieval Augmented Generation (RAG) is a technique used to build applications that integrate data from custom data sources into a prompt for a generative AI model. RAG is a commonly used pattern for developing generative AI apps - chat-based applications that use a language model to interpret inputs and generate appropriate responses.
 In this exercise, you’ll use Azure AI Foundry portal and the Azure AI Foundry and Azure OpenAI SDKs to integrate custom data into a generative AI app.
 <img width="1057" alt="image" src="https://github.com/user-attachments/assets/37f57363-8327-4699-a54a-05dbb12eaff9" />
